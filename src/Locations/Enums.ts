@@ -57,6 +57,10 @@ export enum LocationName {
   VolhavenSysCoreSecurities = "SysCore Securities",
   VolhavenZBInstituteOfTechnology = "ZB Institute of Technology",
 
+  TwigaTechSolutions = "Tech Solutions",
+  TwigaFitnessCenter = "Fitness Center",
+  TwigaUniversity = "Twiga University",
+
   Hospital = "Hospital",
   Slums = "The Slums",
   TravelAgency = "Travel Agency",
@@ -73,6 +77,7 @@ export enum CityName {
   NewTokyo = "New Tokyo",
   Ishima = "Ishima",
   Volhaven = "Volhaven",
+  Twiga = "Twiga",
 }
 
 export enum LocationType {

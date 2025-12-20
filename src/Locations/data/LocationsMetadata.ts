@@ -424,6 +424,29 @@ export const LocationsMetadata: IConstructorParams[] = [
     types: [LocationType.University],
   },
   {
+    city: CityName.Twiga,
+    infiltrationData: {
+      maxClearanceLevel: 10,
+      startingSecurityLevel: 5.0,
+    },
+    name: LocationName.TwigaTechSolutions,
+    types: [LocationType.Company],
+  },
+  {
+    city: CityName.Twiga,
+    costMult: 2,
+    expMult: 2,
+    name: LocationName.TwigaFitnessCenter,
+    types: [LocationType.Gym],
+  },
+  {
+    city: CityName.Twiga,
+    costMult: 4,
+    expMult: 3,
+    name: LocationName.TwigaUniversity,
+    types: [LocationType.University],
+  },
+  {
     city: null,
     name: LocationName.Hospital,
     types: [LocationType.Hospital],

@@ -202,7 +202,27 @@ Cities[CityName.Volhaven].asciiArt = `
                                                                                 
                                                                                 
                                      [the slums] K                              `;
-
+// Twiga (new city) ASCII map
+Cities[CityName.Twiga].asciiArt = `
+                             [twiga tech solutions]                            
+                 11          12      13        14                             
+                 o-----------o------o--------o                              
+                  \\         /        \\      /                               
+                   L  [travel agency] \\    /                                
+                    o  15             o--x                                   
+                    |                 |  \\                                  
+              [twiga university]      |   o 18   [fitness center]             
+                    o                 |   \\    o----x-----o                  
+                   / \\                |    \\  /         |                   
+                  /   \\ 19            |     o/          |                   
+                 o     o----x----23---+----x            |                   
+                 |         |          |                 |                   
+                 |    [hospital]      |                 |                   
+                 |         J    20    |                 |                   
+                 |        / \\        /                  |                   
+                 S 21   /   \\ 22   o                    |                   
+                 [slums]     [bank]                      o 24                
+                                                      [market]              `;
 // Then construct all locations, and add them to the cities as we go.
 for (const metadata of LocationsMetadata) {
   const loc = constructLocation(metadata);

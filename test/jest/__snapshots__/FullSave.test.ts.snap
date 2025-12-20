@@ -134,6 +134,16 @@ exports[`Check Save File Continuity PlayerSave continuity 1`] = `
               "popEst": 1054601898.8108108,
             },
           },
+          "Twiga": {
+            "ctor": "City",
+            "data": {
+              "chaos": 0,
+              "comms": 113,
+              "name": "Twiga",
+              "pop": 1344594595,
+              "popEst": 1635317750.6756756,
+            },
+          },
           "Volhaven": {
             "ctor": "City",
             "data": {
@@ -156,7 +166,7 @@ exports[`Check Save File Continuity PlayerSave continuity 1`] = `
             "ctor": "Contract",
             "data": {
               "autoLevel": true,
-              "count": 117,
+              "count": 129,
               "failures": 0,
               "level": 1,
               "maxLevel": 1,
@@ -167,7 +177,7 @@ exports[`Check Save File Continuity PlayerSave continuity 1`] = `
             "ctor": "Contract",
             "data": {
               "autoLevel": true,
-              "count": 125,
+              "count": 137,
               "failures": 0,
               "level": 1,
               "maxLevel": 1,
@@ -178,7 +188,7 @@ exports[`Check Save File Continuity PlayerSave continuity 1`] = `
             "ctor": "Contract",
             "data": {
               "autoLevel": true,
-              "count": 115,
+              "count": 125,
               "failures": 0,
               "level": 1,
               "maxLevel": 1,
@@ -203,7 +213,7 @@ exports[`Check Save File Continuity PlayerSave continuity 1`] = `
             "ctor": "Operation",
             "data": {
               "autoLevel": true,
-              "count": 23,
+              "count": 35,
               "failures": 0,
               "level": 1,
               "maxLevel": 1,
@@ -215,7 +225,7 @@ exports[`Check Save File Continuity PlayerSave continuity 1`] = `
             "ctor": "Operation",
             "data": {
               "autoLevel": true,
-              "count": 88,
+              "count": 96,
               "failures": 0,
               "level": 1,
               "maxLevel": 1,
@@ -227,7 +237,7 @@ exports[`Check Save File Continuity PlayerSave continuity 1`] = `
             "ctor": "Operation",
             "data": {
               "autoLevel": true,
-              "count": 7,
+              "count": 19,
               "failures": 0,
               "level": 1,
               "maxLevel": 1,
@@ -239,7 +249,7 @@ exports[`Check Save File Continuity PlayerSave continuity 1`] = `
             "ctor": "Operation",
             "data": {
               "autoLevel": true,
-              "count": 15,
+              "count": 27,
               "failures": 0,
               "level": 1,
               "maxLevel": 1,
@@ -251,7 +261,7 @@ exports[`Check Save File Continuity PlayerSave continuity 1`] = `
             "ctor": "Operation",
             "data": {
               "autoLevel": true,
-              "count": 148,
+              "count": 11,
               "failures": 0,
               "level": 1,
               "maxLevel": 1,
@@ -263,7 +273,7 @@ exports[`Check Save File Continuity PlayerSave continuity 1`] = `
             "ctor": "Operation",
             "data": {
               "autoLevel": true,
-              "count": 94,
+              "count": 2,
               "failures": 0,
               "level": 1,
               "maxLevel": 1,

@@ -8521,6 +8521,7 @@ declare enum CityName {
   NewTokyo = "New Tokyo",
   Ishima = "Ishima",
   Volhaven = "Volhaven",
+  Twiga = "Twiga",
 }
 
 /** Names of all locations
@@ -8583,6 +8584,10 @@ declare enum LocationName {
   VolhavenSysCoreSecurities = "SysCore Securities",
   VolhavenZBInstituteOfTechnology = "ZB Institute of Technology",
 
+  TwigaTechSolutions = "Tech Solutions",
+  TwigaFitnessCenter = "Fitness Center",
+  TwigaUniversity = "Twiga University",
+
   Hospital = "Hospital",
   Slums = "The Slums",
   TravelAgency = "Travel Agency",
@@ -8600,6 +8605,7 @@ declare enum UniversityLocationName {
   AevumSummitUniversity = LocationName.AevumSummitUniversity,
   Sector12RothmanUniversity = LocationName.Sector12RothmanUniversity,
   VolhavenZBInstituteOfTechnology = LocationName.VolhavenZBInstituteOfTechnology,
+  TwigaUniversity = LocationName.TwigaUniversity,
 }
 
 /**
@@ -8613,6 +8619,7 @@ declare enum GymLocationName {
   Sector12IronGym = LocationName.Sector12IronGym,
   Sector12PowerhouseGym = LocationName.Sector12PowerhouseGym,
   VolhavenMilleniumFitnessGym = LocationName.VolhavenMilleniumFitnessGym,
+  TwigaFitnessCenter = LocationName.TwigaFitnessCenter,
 }
 
 /** Names of all companies
